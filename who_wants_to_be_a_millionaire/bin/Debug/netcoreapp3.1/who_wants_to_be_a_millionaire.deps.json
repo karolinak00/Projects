@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "who_wants_to_be_a_millionaire/1.0.0": {
+        "runtime": {
+          "who_wants_to_be_a_millionaire.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "who_wants_to_be_a_millionaire/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

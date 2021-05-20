@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1592463191 source:c:\codeblocks\statki2\funkcje.c
+	"funkcje.h"
+
+1592463383 c:\codeblocks\statki2\funkcje.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+
+1592464947 source:c:\codeblocks\statki2\main.c
+	"funkcje.h"
+

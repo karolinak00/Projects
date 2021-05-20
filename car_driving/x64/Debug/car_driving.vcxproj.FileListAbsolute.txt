@@ -1,0 +1,3 @@
+C:\Users\karol\source\repos\b04ef3cc-gr32-repo\Projekt\car_driving\x64\Debug\car_driving.exe
+C:\Users\karol\source\repos\Projekty\car_driving\x64\Debug\car_driving.exe
+C:\Users\karol\source\repos\Projects\car_driving\x64\Debug\car_driving.exe
